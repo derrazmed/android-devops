@@ -7,11 +7,11 @@ import org.junit.Assert.*
 class   ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
-        assertEquals(4, 2 + 1)
+        assertEquals(4, 2 + 5)
     }
 
     @Test
     fun subtract_isCorrect() {
-        assertEquals(4, 8 - 3)
+        assertEquals(4, 8 - 2)
     }
 }
